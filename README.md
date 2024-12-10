@@ -72,6 +72,8 @@ This marks the completion of my data cleaning and transformation process. It is 
 
                             Pivot table for average total steps by ID and Day
 
+!(https://github.com/RugvedSoman/Google_CPP/blob/main/avg%20total%20steps%20by%20days%20of%20the%20week%20per%20user.png?raw=true)
+
 
 
 
