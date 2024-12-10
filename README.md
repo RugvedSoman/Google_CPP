@@ -36,4 +36,5 @@ The process of data cleaning, transformation and visualization will be carried o
 
 ## Data Cleaning and Transformation
 
-![
+![An overview of the daily_activity_merged dataset](
+
