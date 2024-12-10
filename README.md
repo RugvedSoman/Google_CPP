@@ -68,11 +68,59 @@ This marks the completion of my data cleaning and transformation process. It is 
 
 ## Analyze Phase
 
-![Pivot table for average total steps by ID and Day]()
+![Pivot table for average total steps by ID and Day](https://github.com/RugvedSoman/Google_CPP/blob/main/Pivot%20table%20for%20average%20total%20steps%20by%20ID%20and%20Day.png?raw=true)
 
                             Pivot table for average total steps by ID and Day
 
-!(https://github.com/RugvedSoman/Google_CPP/blob/main/avg%20total%20steps%20by%20days%20of%20the%20week%20per%20user.png?raw=true)
+
+![avg total steps by days of the week per user](https://github.com/RugvedSoman/Google_CPP/blob/main/avg%20total%20steps%20by%20days%20of%20the%20week%20per%20user.png?raw=true)
+
+
+Similarly, it can be deduced from the bar chart below that users take more steps Saturdays and Tuesday with least steps on Sundays and Thursdays.
+
+![Average Steps per day](https://github.com/RugvedSoman/Google_CPP/blob/main/avg%20steps%20per%20day.png?raw=true)
+
+![avg total min asleep & avg total time in bed per user](https://github.com/RugvedSoman/Google_CPP/blob/main/avg%20total%20min%20asleep%20&%20avg%20total%20time%20in%20bed%20per%20user.png?raw=true)
+
+![avg hours asleep vs avg time in bed per day](https://github.com/RugvedSoman/Google_CPP/blob/main/avg%20hours%20asleep%20vs%20avg%20time%20in%20bed%20per%20day.png?raw=true)
+
+We can see from the above diagram that the user spend an average of 7 hours or 419minutes on sleep and an average of 8hours or 456 minutes in bed. It also shows that users get more sleeptime on Sundays. Users get more sleep on Sundays.
+
+![avg calories burnt per day](https://github.com/RugvedSoman/Google_CPP/blob/main/avg%20calories%20burnt%20per%20day.png?raw=true)
+
+Comparing the average total steps chart illustrated above with this average calories burnt chart, it can be established that the daily steps have a positive correlation with the calories burnt, that is, the higher the steps taken, the higher the calories burnt. More calories are burnt on Saturdays and Tuesdays while least calories are burned on Sundays and Thursdays.
+
+![percentage of mins in diff categories](https://github.com/RugvedSoman/Google_CPP/blob/main/percentage%20of%20mins%20in%20diff%20categories.png?raw=true)
+
+Above is a pie chart which shows the percentage of time users spent in various activity category. Users spend 81% of their time Sedentarily. This can also be seen in the column chart below;
+
+![Total mins category per user](https://github.com/RugvedSoman/Google_CPP/blob/main/Total%20mins%20category%20per%20user.png?raw=true)
+
+This brings us to the end of the analysis phase. Its is time to move on to the share phase where we pitch/share our insights and visuals (in an organized format) from the analysis carried out to the stakeholders.
+
+
+## Share Phase
+
+The share phase as stated above is all about sharing our findings to the primary / secondary stakeholders of the business. I have been able to deduce the following from the analysis I carried out:
+
+#### Insights
+
+- A total of 33 users provided their daily steps and calories over a period of 31 days each. About 88% of users were able to track their daily steps/calories 
+  burned for 25days and more while the remaining 12% did less than 25 days.
+- 8 users provided their their daily weight report, out of which only 2 users were able to track their daily weight for 24–31 days while the remaining 6 users 
+  tracked for 5 days or less.
+- 24 users provided their daily sleep minutes and minutes in bed, out of which 42% was able to track their sleep data for 25–31 days while 58% only tracked their 
+  sleep for less than 25days.
+- The number of steps taken per day has a positive correlation with calories burned.
+- Users take an average of 7,368 steps in a day while burning a total of 2,303 calories on the average.
+- Users spend about 81% of their time in sedentary.
+- Users tend to spend and average of 419 mins-which is approximately 7hours- on sleep, while they spend about 458 minutes-which is approximately 8 hours in 
+  bed,while spending more time in bed and getting more sleep on Sundays.
+- Users tend to take more steps on Saturdays and Tuesdays with least steps on Sundays and Thursdays.
+
+                             
+
+
 
 
 
