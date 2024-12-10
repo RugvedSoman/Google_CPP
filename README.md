@@ -36,5 +36,5 @@ The process of data cleaning, transformation and visualization will be carried o
 
 ## Data Cleaning and Transformation
 
-![An overview of the daily_activity_merged dataset](
+![An overview of the daily_activity_merged dataset](https://raw.githubusercontent.com/RugvedSoman/Google_CPP/refs/heads/main/An%20overview%20of%20the%20daily_activity_merged%20dataset.webp)
 
