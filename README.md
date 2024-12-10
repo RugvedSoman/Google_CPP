@@ -64,6 +64,15 @@ formatting the numbered columns into two(2) decimal places. Below is a view of a
 
                             The dataset after cleaning and transformation 2
 
+This marks the completion of my data cleaning and transformation process. It is time to start my analysis to derive certain insights which leads us to the analyze phase.
+
+## Analyze Phase
+
+![Pivot table for average total steps by ID and Day]()
+
+                            Pivot table for average total steps by ID and Day
+
+
 
 
 
