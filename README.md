@@ -36,20 +36,16 @@ The process of data cleaning, transformation and visualization will be carried o
 
 ### Data Cleaning and Transformation
 
-![An overview of the daily_activity_merged dataset](https://github.com/RugvedSoman/Google_CPP/blob/da3ea42c77f4b93cdcb58ac8751360be2c45af8b/An%20overview%20of%20the%20daily_activity_merged%20dataset.webp)
-                           
+![An overview of the daily_activity_merged dataset](https://github.com/RugvedSoman/Google_CPP/blob/main/An%20overview%20of%20the%20daily_activity_merged%20dataset.png?raw=true)
                            An overview of the daily_activity_merged dataset
 
 
-![An overview of the weight_loginfo dataset](https://raw.githubusercontent.com/RugvedSoman/Google_CPP/refs/heads/main/An%20overview%20of%20the%20weight_loginfo%20dataset.webp)
-                          
-                          An overview of the weight_loginfo dataset
+![An overview of the weight_loginfo dataset](https://github.com/RugvedSoman/Google_CPP/blob/main/An%20overview%20of%20the%20weight_loginfo%20dataset.png?raw=true)
+                           An overview of the weight_loginfo dataset
 
 
-![An overview of the SleepDay_merged dataset](https://raw.githubusercontent.com/RugvedSoman/Google_CPP/refs/heads/main/An%20overview%20of%20the%20SleepDay_merged%20dataset.webp
-)
-                          
-                          An overview of the SleepDay_merged dataset
+![An overview of the SleepDay_merged dataset](https://github.com/RugvedSoman/Google_CPP/blob/main/An%20overview%20of%20the%20SleepDay_merged%20dataset.png?raw=true)
+                           An overview of the SleepDay_merged dataset
 
 
 The date column of the Weight_Loginfo comprises of both date and time, so I used the power query to split column by the space delimiter, used the Text to columns function under the data tab to format the date into “ddmmyyyy” format and created named ranges for the column headers. I then used the TEXT function to extract the Days and Month in the date.
